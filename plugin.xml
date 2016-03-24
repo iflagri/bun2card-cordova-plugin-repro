@@ -61,7 +61,7 @@
 
         <source-file src="src/android/CordovaPlugin.java" target-dir="src/io/repro/android" />
         <resource-file src="src/android/repro-android-sdk.aar" target="libs/repro-android-sdk.aar" />
-        <framework src="com.google.android.gms:play-services-gcm:7.3.0+" />
+        <framework src="com.google.android.gms:play-services-gcm:8.4.0" />
         <framework src="src/android/repro-android-sdk.gradle" custom="true" type="gradleReference" />
 
     </platform>
