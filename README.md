@@ -4,8 +4,11 @@ This plugin provides the ability to use [Repro](https://repro.io/)
 
 ## Installation
 
+cordova plugin add https://github.com/iflagri/bun2card-cordova-plugin-repro.git
+
+cordova-plugin-repro 2.0.1
 ```
-cordova plugin add cordova-plugin-repro
+@see cordova plugin add cordova-plugin-repro
 ```
 
 ### Supported Platforms
